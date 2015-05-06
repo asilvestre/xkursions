@@ -1,0 +1,1 @@
+Development of a web site to organize and anounce hiking excursions
